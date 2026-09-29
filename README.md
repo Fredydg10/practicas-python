@@ -1,6 +1,6 @@
 Roadmap Analista de Datos - Mis Prácticas
 
-¡Hola! 👋 Soy Fredy, Estudiante de desarrollo y gestion de software en la UTP Panamá con aspiracion a saber cobre el campo de analisis de datos. 
+¡Hola! 👋 Soy Fredy, Estudiante de desarrollo y gestion de software en la UTP Panamá con aspiracion a saber sobre el campo de analisis de datos. 
 
 Este repositorio documenta mi aprendizaje diario siguiendo un roadmap estructurado de 30 días. Aquí encontrarás scripts en Python, ejercicios de SQL, y análisis de datos reales.
 
