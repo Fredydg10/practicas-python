@@ -1,21 +1,21 @@
 Roadmap Analista de Datos - Mis Prácticas
 
-¡Hola! 👋 Soy Fredy, Estudiante de desarrollo y gestion de software en la UTP Panamá con aspiracion a saber sobre el campo de analisis de datos. 
+¡Hola!  Soy Fredy, Estudiante de desarrollo y gestion de software en la UTP Panamá con aspiracion a saber sobre el campo de analisis de datos. 
 
 Este repositorio documenta un aprendizaje en la parte de codigo sobre ser analista de datos,en el lenguaje python.Aquí encontrarás scripts , ejercicios de SQL, y análisis de datos reales.
 
-🎯 Objetivo
+Objetivo
 
 Dominar las herramientas y conceptos fundamentales del Análisis de Datos:
-- ✅ SQL (Básico y Avanzado)
-- ✅ Python para Data Analytics
-- ✅ Pandas (Manipulación de datos)
-- ✅ Visualización (Matplotlib, Seaborn)
-- ✅ Estadística y Probabilidad
-- ✅ Análisis Exploratorio de Datos (EDA)
+- SQL (Básico y Avanzado)
+- Python para Data Analytics
+- Pandas (Manipulación de datos)
+- Visualización (Matplotlib, Seaborn)
+- Estadística y Probabilidad
+- Análisis Exploratorio de Datos (EDA)
 
 
-🛠️ Tecnologías y Herramientas
+Tecnologías y Herramientas
 
 - Lenguaje: Python 3.14
 - Librerías: Pandas, NumPy, Matplotlib, Seaborn, SciPy
@@ -25,7 +25,7 @@ Dominar las herramientas y conceptos fundamentales del Análisis de Datos:
 - Control de Versiones: Git & GitHub
 
 
-🚀 Cómo Ejecutar los Scripts
+Cómo Ejecutar los Scripts?
 
 Requisitos previos:
 ```bash
@@ -43,7 +43,7 @@ Si usas Windows 11 y te aparece un bloqueo de seguridad, agrega tu carpeta de pr
 `Seguridad de Windows → Protección contra virus y amenazas → Administrar la configuración → Exclusiones
 
 
-🎓 Aprendizajes Clave
+Aprendizajes Clave
 
 SQL vs Pandas
 | SQL | Pandas |
@@ -60,14 +60,14 @@ SQL vs Pandas
 - Distribución Normal: La campana de Gauss, fundamental en estadística
 
 
-📝 Notas Personales
+Notas Personales
 
 "La paciencia para entender qué hacen los datos antes de manipularlos es lo que te hace un buen analista."
 
 Este repositorio es mi viaje de aprendizaje. Cada script representa un día de dedicación y práctica. El objetivo final es dominar el análisis de datos al 100% y aplicar estos conocimientos en proyectos reales.
 
 
-🔗 Recursos Utilizados
+Recursos Utilizados
 
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [SQLZoo](https://sqlzoo.net/)
@@ -85,7 +85,7 @@ Contacto
 
 Última actualización: Septiembre 2026
 
-🎯 Instrucciones para subirlo a GitHub:
+Instrucciones para subirlo a GitHub:
 
 1. Guarda el archivo como `README.md` (asegúrate que la extensión sea `.md` y no `.txt`).
 
