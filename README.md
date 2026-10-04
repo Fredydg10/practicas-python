@@ -1,4 +1,4 @@
-Roadmap Analista de Datos - Mis Prácticas
+Diagrama Analista de Datos - Mis Prácticas
 
 ¡Hola!  Soy Fredy, Estudiante de desarrollo y gestion de software en la UTP Panamá con aspiracion a saber sobre el campo de analisis de datos. 
 
