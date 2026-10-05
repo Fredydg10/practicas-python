@@ -13,6 +13,7 @@ Dominar las herramientas y conceptos fundamentales del Análisis de Datos:
 - Visualización (Matplotlib, Seaborn)
 - Estadística y Probabilidad
 - Análisis Exploratorio de Datos (EDA)
+- Data Storytelling y Comunicación de Insights
 
 
 Tecnologías y Herramientas
