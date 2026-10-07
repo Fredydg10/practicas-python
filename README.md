@@ -1,12 +1,11 @@
 Roadmap Analista de Datos - Portafolio 
 
-Herramientas al utilizar: 
 
-Python: https://img.shields.io/badge/Python-3.11+-blue?logo=python
-Pandas: https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas
-Scikit-Learn: https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn
-Power BI: https://img.shields.io/badge/Power%20BI-BI-yellow?logo=power-bi
-Git: https://img.shields.io/badge/Git-Version%20Control-red?logo=git
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
+![Power BI](https://img.shields.io/badge/Power%20BI-BI-yellow?logo=power-bi)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
 
 
 Sobre Este Repositorio
@@ -138,7 +137,3 @@ Contacto
 - Email: fredy.villarreal@utp.ac.pa
 
 ¡Gracias por visitar mi portafolio!
-
-⭐ *Si te gusta este proyecto, dale una estrella al repositorio*
-
-</div>
